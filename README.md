@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+I used [Next.js](https://nextjs.org/) and [shadcn/ui](https://ui.shadcn.com) and implemented [dummy API](https://dummyjson.com/users) for users.
 
 ## Getting Started
 
