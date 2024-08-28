@@ -8,6 +8,7 @@ interface CardProps {
   image: string
   title: string
   subtitle: string
+  className?: string
 }
 
 export function Card({ width, height, className, image, title, subtitle, ...props }: CardProps) {
